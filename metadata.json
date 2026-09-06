@@ -1,0 +1,6 @@
+{
+  "name": "OXW CREATIV",
+  "description": "Plateforme éducative et professeur particulier intelligent pour collège, lycée et supérieur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
